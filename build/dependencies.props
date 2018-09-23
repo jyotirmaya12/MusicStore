@@ -43,7 +43,7 @@
     <MicrosoftNETTestSdkPackageVersion>15.6.1</MicrosoftNETTestSdkPackageVersion>
     <NETStandardLibrary20PackageVersion>2.0.3</NETStandardLibrary20PackageVersion>
     <SystemDataSqlClientPackageVersion>4.6.0-preview1-26727-04</SystemDataSqlClientPackageVersion>
-    <XunitPackageVersion>2.3.1</XunitPackageVersion>
+    <XunitPackageVersion>2.4.0</XunitPackageVersion>
     <XunitRunnerVisualStudioPackageVersion>2.4.0</XunitRunnerVisualStudioPackageVersion>
   </PropertyGroup>
   <PropertyGroup Label="Package Versions: Pinned" />
