@@ -13,7 +13,7 @@
     <MicrosoftAspNetCoreAuthenticationMicrosoftAccountPackageVersion>3.0.0-alpha1-10221</MicrosoftAspNetCoreAuthenticationMicrosoftAccountPackageVersion>
     <MicrosoftAspNetCoreAuthenticationOpenIdConnectPackageVersion>3.0.0-alpha1-10221</MicrosoftAspNetCoreAuthenticationOpenIdConnectPackageVersion>
     <MicrosoftAspNetCoreAuthenticationTwitterPackageVersion>3.0.0-alpha1-10221</MicrosoftAspNetCoreAuthenticationTwitterPackageVersion>
-    <MicrosoftAspNetCoreDiagnosticsEntityFrameworkCorePackageVersion>3.0.0-alpha1-10221</MicrosoftAspNetCoreDiagnosticsEntityFrameworkCorePackageVersion>
+    <MicrosoftAspNetCoreDiagnosticsEntityFrameworkCorePackageVersion>3.0.0-preview-19075-0444</MicrosoftAspNetCoreDiagnosticsEntityFrameworkCorePackageVersion>
     <MicrosoftAspNetCoreIdentityEntityFrameworkCorePackageVersion>3.0.0-alpha1-10221</MicrosoftAspNetCoreIdentityEntityFrameworkCorePackageVersion>
     <MicrosoftAspNetCoreIdentityPackageVersion>3.0.0-alpha1-10221</MicrosoftAspNetCoreIdentityPackageVersion>
     <MicrosoftAspNetCoreMvcPackageVersion>3.0.0-alpha1-10221</MicrosoftAspNetCoreMvcPackageVersion>
